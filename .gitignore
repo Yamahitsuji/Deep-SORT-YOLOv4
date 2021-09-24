@@ -1,2 +1,6 @@
 *.weights
 *.h5
+
+.idea
+.vscode
+.DS_Store
